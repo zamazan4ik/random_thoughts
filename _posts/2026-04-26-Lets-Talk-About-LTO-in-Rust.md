@@ -1,7 +1,14 @@
 ---
-title: Another Sample Page
+title: Let's talk about LTO (in Rust)
 published: true
 ---
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
